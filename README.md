@@ -79,13 +79,38 @@ My focus centers on prompt engineering, structured LLM outputs, intelligent cach
 
 ### 🛠️ Technical Stack
 
-```
-AI / LLM Engineering │ Google Gemini API, Prompt Engineering, LLM Integration, REST AI Pipelines, GitHub REST API
-Languages            │ Python (Primary), TypeScript, JavaScript, Java, HTML5, CSS3
-Backend & Storage    │ FastAPI, Node.js, PostgreSQL, MongoDB, Upstash Redis, Supabase
-Frontend Interfaces  │ Next.js, React.js, Tailwind CSS, Angular
-DevOps & MLOps       │ Docker, Git/GitHub, AWS (Learning), CI/CD Fundamentals, Vercel
-```
+<div align="center">
+
+#### AI / LLM & Engineering
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini API" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub%20REST%20API-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub REST API" />
+</p>
+
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,html,css&theme=dark" alt="Languages" />
+</p>
+
+#### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,redis,supabase&theme=dark" alt="Backend & Databases" />
+</p>
+
+#### Frontend Interfaces
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,angular&theme=dark" alt="Frontend Interfaces" />
+</p>
+
+#### DevOps & MLOps Foundation
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel&theme=dark" alt="DevOps & MLOps" />
+</p>
+
+</div>
 
 ---
 
