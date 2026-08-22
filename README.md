@@ -1,208 +1,127 @@
 <div align="center">
-  
-  # Hi there, I'm Chirag Tapre 👋
-  
-  ### Full Stack Developer • DevOps Enthusiast • Building Intelligent Products
 
-  <p align="center">
-    <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+scalable+full-stack+applications;Exploring+DevOps+%26+Cloud;Building+AI-powered+products;Turning+ideas+into+software" alt="Typing SVG" />
-    </a>
-  </p>
+# Chirag Tapre
+### Aspiring AI Engineer • Full-Stack Systems & LLM Integrations
 
-  <p align="center">
-    <a href="https://github.com/chiragdebugs">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/chirag-tapre-47a426192/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://github.com/chiragdebugs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/chirag-tapre-47a426192/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:taprechirag150@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
-
-<br />
 
 ---
 
-## 👨‍💻 About Me
+### About Me
 
-Pre-final year **Electronics & Communication Engineering** student at Savitribai Phule Pune University (SPPU) with hands-on experience in full-stack engineering and intelligent software design.
+Pre-final year Electronics & Communication Engineering student at Savitribai Phule Pune University (SPPU) and **Aspiring AI Engineer**. I specialize in building AI-powered applications by integrating Large Language Model APIs (Google Gemini) with production-grade backend and frontend architecture using **Python**, **FastAPI**, **React**, and **Next.js**.
 
-- ⚙️ **Software Engineering**: Currently gaining industry experience as a **Python Stack Intern at Infosys Springboard**, working with Angular, FastAPI, and PostgreSQL.
-- 💡 **Product Building**: Architecting full-stack applications integrating AI, modern web frameworks, and automated workflows.
-- ☁️ **DevOps & Cloud**: Expanding domain knowledge in Docker, AWS, CI/CD pipelines, and high-availability system architecture.
+My focus centers on prompt engineering, structured LLM outputs, intelligent caching strategies (Redis), and designing scalable data pipelines to deliver reliable AI insights at scale.
 
-<br />
+---
 
-## ⚡ Currently
+### What I Build & Core Focus
 
-| Focus Area | Technologies / Domains |
-| :--- | :--- |
-| 🛠️ **Building** | Full-stack web applications & AI-powered tools |
-| 📚 **Learning** | DevOps, AWS, CI/CD pipelines & System Design |
-| 💼 **Working with** | React, Angular, FastAPI, PostgreSQL, TypeScript |
-| 🚀 **Exploring** | Cloud-native architectures & distributed microservices |
+- 🤖 **AI-Powered Applications**: Integrating LLMs (Google Gemini API) with robust prompt engineering to extract structured data, automate analysis, and power intelligent user workflows.
+- ⚡ **Backend Engineering**: Designing REST APIs, microservice logic, and database schemas with **Python**, **FastAPI**, **PostgreSQL**, and **MongoDB**.
+- 🚀 **Intelligent Caching & Performance**: Implementing caching layers with **Upstash Redis** to optimize API latency, reduce redundant LLM calls, and serve insights instantly.
+- 💻 **Modern Frontend Interfaces**: Crafting responsive AI application UIs using **React**, **Next.js**, and **TypeScript**.
+- 🛠️ **DevOps & MLOps Foundation**: Building automated workflows and CI/CD pipelines with growing hands-on exposure to **Docker**, **AWS**, and **Vercel**.
 
-<br />
+---
 
-## 🛠️ Tech Stack
+### 🚀 Featured AI Projects
 
-<div align="center">
+#### 1. [RepoLens AI](https://github.com/chiragdebugs/repolens-ai) — *Flagship AI Engineering Project*
+> AI-powered repository intelligence engine that analyzes public GitHub repositories and generates structured engineering insights in seconds.
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css&theme=dark" alt="Languages" />
-</p>
+- **GitHub Repository Analysis**: Connects with the GitHub REST API to parse folder structures, detect tech stacks, evaluate repo health, and highlight key files.
+- **LLM Pipeline & Prompt Engineering**: Integrates **Google Gemini API** with tailored prompt engineering to output reliable, structured JSON recommendations and architectural breakdowns.
+- **Intelligent Caching Layer**: Engineered an **Upstash Redis** caching strategy to serve previously analyzed repositories instantly, dramatically reducing redundant AI requests and optimizing response times.
+- **Modern Full-Stack Architecture**: Built and deployed with **Next.js 15**, **TypeScript**, and **Tailwind CSS** on **Vercel**.
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark" alt="Frontend" />
-</p>
+[Live Demo](https://repolens-ai-coral.vercel.app) • [Source Code](https://github.com/chiragdebugs/repolens-ai)
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,supabase,redis&theme=dark" alt="Backend and Databases" />
-</p>
+---
 
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,postman&theme=dark" alt="DevOps and Tools" />
-</p>
+#### 2. [BillBuddy AI](https://github.com/chiragdebugs/billbuddy-ai) — *AI-Powered Expense Sharing Platform (In Testing)*
+> Full-stack intelligent expense management and bill sharing application designed for modern group finances.
 
-</div>
+- **Core Financial Engine**: Built secure authentication, real-time bill management, itemized bill splits, participant settlement tracking, and automated reminders.
+- **AI-Driven Insights**: Extending the platform with AI-powered spending analytics and automated receipt scanning to categorize shared expenses.
+- **Backend & Database**: Powered by **Supabase** (PostgreSQL) with real-time subscriptions and role-based access.
+- **Frontend Interface**: Built using **React**, **TypeScript**, and **Tailwind CSS**.
 
-<br />
+[Source Code](https://github.com/chiragdebugs/billbuddy-ai)
 
-## 🚀 Featured Projects
+---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 RepoLens AI</h3>
-      <p align="center">
-        <i>AI-powered application analyzing public GitHub repositories to deliver structured engineering insights and architectural breakdowns.</i>
-      </p>
-      <p><b>Key Features:</b> Tech stack detection, repo health scoring, folder structure parsing, and automated improvement suggestions.</p>
-      <p><b>Tech Stack:</b> Next.js 15, TypeScript, Tailwind CSS, Google Gemini API, Upstash Redis, GitHub REST API, Vercel</p>
-      <p align="center">
-        <a href="https://repolens-ai-coral.vercel.app"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/chiragdebugs/repolens-ai"><b>💻 Source Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💡 BillBuddy AI</h3>
-      <p align="center">
-        <i>Full-stack expense management and intelligent bill sharing system for modern group finances.</i>
-      </p>
-      <p><b>Key Features:</b> Multi-user auth, itemized bill splits, participant settlement tracking, dynamic visual dashboards, and automated reminders.</p>
-      <p><b>Tech Stack:</b> React, TypeScript, Tailwind CSS, Supabase</p>
-      <p align="center">
-        <a href="https://github.com/chiragdebugs/billbuddy-ai"><b>💻 Source Code</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✨ Developer Portfolio</h3>
-      <p align="center">
-        <i>Personal interactive 3D developer portfolio showcasing full-stack projects, skill highlights, and contact interfaces.</i>
-      </p>
-      <p><b>Key Features:</b> Modern glassmorphism UI, interactive components, responsive layout, and smooth animations.</p>
-      <p><b>Tech Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Vercel</p>
-      <p align="center">
-        <a href="https://portfolio-ten-flax-3q2ct8gz1h.vercel.app"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/chiragdebugs/portfolio"><b>💻 Source Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔗 URL Shortener</h3>
-      <p align="center">
-        <i>High-performance URL shortener application engineered for fast routing and link management.</i>
-      </p>
-      <p><b>Key Features:</b> Instant short-code generation, referral tracking, clean dashboard interface, and low-latency redirects.</p>
-      <p><b>Tech Stack:</b> TypeScript, React, Node.js, Vercel</p>
-      <p align="center">
-        <a href="https://urlshortner-eta-nine.vercel.app"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; 
-        <a href="https://github.com/chiragdebugs/urlshortner"><b>💻 Source Code</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 💼 Professional Experience
 
-<br />
+#### **Python Stack Intern** — *Infosys Springboard*
+`June 2026 – Present` • Pune, India
 
-## 💼 Experience
+- Developing a full-stack **Vendor Reliability Intelligence & Procurement Risk Management Platform** using **Angular**, **FastAPI**, and **PostgreSQL**.
+- Engineered vendor management modules, procurement workflows, and performance tracking features with role-based authentication.
+- Built reliability scoring logic and analytics dashboards to surface actionable procurement risk insights.
+- Collaborating on REST API design, database schema optimization, and scalable full-stack system architecture.
 
-### **Python Stack Intern** — *Infosys Springboard*
-`June 2026 – Present`
+---
 
-- Contributing to the **Vendor Reliability Intelligence & Procurement Risk Management Platform**.
-- Architecting backend workflows using **FastAPI** and **PostgreSQL** with role-based access control and analytical endpoints.
-- Developing interactive vendor monitoring dashboards and procurement UI using **Angular**.
-- Implementing automated performance tracking algorithms and risk scoring metrics.
+### 🛠️ Technical Stack
 
-<br />
+```
+AI / LLM Engineering │ Google Gemini API, Prompt Engineering, LLM Integration, REST AI Pipelines, GitHub REST API
+Languages            │ Python (Primary), TypeScript, JavaScript, Java, HTML5, CSS3
+Backend & Storage    │ FastAPI, Node.js, PostgreSQL, MongoDB, Upstash Redis, Supabase
+Frontend Interfaces  │ Next.js, React.js, Tailwind CSS, Angular
+DevOps & MLOps       │ Docker, Git/GitHub, AWS (Learning), CI/CD Fundamentals, Vercel
+```
 
-## 🎓 Education
+---
 
-### **Bachelor of Engineering (B.E.) — Electronics & Communication Engineering**
-*Savitribai Phule Pune University (SPPU)* | `2024 – 2028`
+### 📚 Currently Learning & Expanding
 
-<br />
+- ⚙️ **MLOps & Infrastructure**: Advanced Docker containerization, AWS cloud deployments, and automated CI/CD pipelines.
+- 📐 **System Design**: Distributed systems, high-availability architecture, and scalable AI backend patterns.
+- 🧠 **Advanced GenAI**: RAG (Retrieval-Augmented Generation) architectures and agentic workflows.
 
-## 📜 Certifications & Programs
+---
 
-- 🛡️ **Deloitte Australia** — Cyber Job Simulation
-- 📊 **Tata Group** — GenAI Powered Data Analytics Job Simulation
-- 🚀 **McKinsey.org** — Forward Program
-- 🌐 **Introduction to Front-End Development**
-- 🔒 **Cybersecurity for Everyone**
-
-<br />
-
-## 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragdebugs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Chirag's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiragdebugs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" alt="Chirag's GitHub Stats" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragdebugs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages" height="170" />
-
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragdebugs&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&alarm=38BDF8" alt="GitHub Streak" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragdebugs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" alt="Top Languages" height="165" />
 
 </div>
 
 <br />
-
-## 🐍 Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/chiragdebugs/chiragdebugs/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
-<br />
+---
 
-## 🤝 Let's Connect
+### 🤝 Connect & Contact
 
-I am always open to discussing software engineering, full-stack development, AI applications, DevOps, and open-source opportunities.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chirag-tapre-47a426192/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/chiragdebugs">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- **LinkedIn**: [linkedin.com/in/chirag-tapre-47a426192](https://www.linkedin.com/in/chirag-tapre-47a426192/)
+- **Email**: [taprechirag150@gmail.com](mailto:taprechirag150@gmail.com)
+- **GitHub**: [github.com/chiragdebugs](https://github.com/chiragdebugs)
 
 <div align="center">
   <br />
   <img src="https://komarev.com/ghpvc/?username=chiragdebugs&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <br /><br />
-  <code>Code. Build. Learn. Repeat.</code>
 </div>
