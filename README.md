@@ -39,7 +39,7 @@ My focus centers on prompt engineering, structured LLM outputs, intelligent cach
 
 ---
 
-### 🚀 Featured AI Projects
+### 🚀 Featured Projects
 
 #### 1. [RepoLens AI](https://github.com/chiragdebugs/repolens-ai) — *Flagship AI Engineering Project*
 > AI-powered repository intelligence engine that analyzes public GitHub repositories and generates structured engineering insights in seconds.
@@ -62,6 +62,18 @@ My focus centers on prompt engineering, structured LLM outputs, intelligent cach
 - **Frontend Interface**: Built using **React**, **TypeScript**, and **Tailwind CSS**.
 
 [Source Code](https://github.com/chiragdebugs/billbuddy-ai)
+
+---
+
+#### 3. [Slash — URL Shortener](https://github.com/chiragdebugs/urlshortner) — *Modern Link Infrastructure & Real-Time Analytics Engine*
+> Enterprise-grade URL shortener and clickstream analytics platform built with Next.js 16, Three.js 3D WebGL graphics, and Supabase Cloud Postgres.
+
+- **High-Performance Redirects**: Sub-millisecond URL short-code resolution and routing engineered with Next.js Route Handlers.
+- **3D WebGL Interface**: Built interactive living 3D translucent slash planes rendered with custom GLSL shaders and Three.js (`@react-three/fiber`).
+- **Real-Time Clickstream Analytics**: Tracks referral channels, traffic velocity, geographic performance, and browser metrics using **Supabase** (PostgreSQL).
+- **Full-Stack Tech Stack**: Built with **Next.js 16**, **React 19**, **TypeScript**, **Tailwind CSS v4**, and **Supabase**, deployed on **Vercel**.
+
+[Live Demo](https://slash-urlshortner.vercel.app/) • [Source Code](https://github.com/chiragdebugs/urlshortner)
 
 ---
 
